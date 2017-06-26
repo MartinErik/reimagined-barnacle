@@ -4,3 +4,4 @@ asd{\rtf1\ansi\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
 }
  asd
 Hej
+hej2
